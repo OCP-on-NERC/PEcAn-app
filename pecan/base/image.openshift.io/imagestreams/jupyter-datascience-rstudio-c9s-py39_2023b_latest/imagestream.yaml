@@ -7,7 +7,7 @@ metadata:
     opendatahub.io/notebook-image: "true"
   annotations:
     opendatahub.io/notebook-image-url: "https://github.com/opendatahub-io-contrib/workbench-images"
-    opendatahub.io/notebook-image-name: "Datascience + RStudio JupyterLab Notebook image on Centos Stream 9 with Python 3.9"
+    opendatahub.io/notebook-image-name: "RStudio JupyterLab"
     opendatahub.io/notebook-image-desc: |-
       RStudio is an integrated development environment (IDE) for R and Python.
       It includes a console, syntax-highlighting editor that supports direct code execution, and tools for plotting, history, debugging, and workspace management.
